@@ -5,6 +5,10 @@
 	"keywords": ["hello"],
 	"author": "Tanpero",
 	"license": "MIT",
+	"scripts": {
+	    "build": "g++ src/main.cc -o hello-world",
+		"test": "./hello-world"
+	},
 	"buildsystem": "None",
 	"dependencies": {}
 }
