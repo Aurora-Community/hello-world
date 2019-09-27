@@ -1,0 +1,7 @@
+{
+    "name": "hello-world",
+	"version": "0.0.1",
+	"description": "The first Aurora package."
+	"author": "Tanpero",
+	"license": "MIT"
+}
