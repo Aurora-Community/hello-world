@@ -2,6 +2,9 @@
     "name": "hello-world",
 	"version": "0.0.1",
 	"description": "The first Aurora package."
+	"keywords": ["hello"],
 	"author": "Tanpero",
-	"license": "MIT"
+	"license": "MIT",
+	"buildsystem": "None",
+	"dependencies": {}
 }
